@@ -60,15 +60,15 @@ Some words look like they might have affixes historically, but are synchronicall
 
 ---
 
-## 🔎 Malay Lemma Flowchart (Mermaid)
+## 🔎 Malay Lemma Flowchart
 
 ```mermaid
-flowchart TD
-    A[Start with the word] --> B{Has a common affix? <br/>(meN-, ber-, ter-, ke-…-an)}
-    B -->|Yes| C[Strip affix → Root <br/>(Lemma = root form)]
-    B -->|No| D{Is it reduplicated?}
+graph TD
+    A[Start with the word] --> B[Has a common affix? <br/>meN-, ber-, ter-, ke-...-an]
+    B -->|Yes| C[Strip affix → Root <br/>Lemma = root form]
+    B -->|No| D[Is it reduplicated?]
     D -->|Yes| E[Lemma = single form]
-    D -->|No| F{Is it a compound?}
+    D -->|No| F[Is it a compound?]
     F -->|Yes| G[Lemma = compound]
-    F -->|No| H[Lemma = the word itself <br/>(e.g. demikian, kalau)]
+    F -->|No| H[Lemma = the word itself <br/>e.g. demikian, kalau]
 ```
