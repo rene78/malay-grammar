@@ -14,8 +14,8 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - Assimilates depending on first letter of root.  
 
 **Example:**  
-- *tulis* → **menulis** (*to write*)  
-- *ajar* → **mengajar** (*to teach*)  
+- *tulis (write)* → **menulis** (*to write*)  
+- *ajar (teach)* → **mengajar** (*to teach*)  
 
 ---
 
@@ -24,8 +24,8 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - Adds sense of *"to have / to use / to do"*.  
 
 **Example:**  
-- *jalan* → **berjalan** (*to walk*)  
-- *baju* → **berbaju** (*to wear clothes*)  
+- *tulis* → **bertulis** (*written / bearing writing*)  
+- *baju (shirt)* → **berbaju** (*to wear clothes*)  
 
 ---
 
@@ -34,8 +34,8 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - Adds sense of *"happened by itself / accidentally / the most"*.  
 
 **Example:**  
-- *lihat* → **terlihat** (*visible / accidentally saw*)  
-- *besar* → **terbesar** (*biggest*)  
+- *tulis* → **tertulis** (*written down, inscribed, accidentally written*)
+- *lihat (look)* → **terlihat** (*visible / accidentally saw*)  
 
 ---
 
@@ -44,8 +44,8 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - Like English *-er*.  
 
 **Example:**  
-- *ajar* → **pengajar** (*teacher*)  
 - *tulis* → **penulis** (*writer*)  
+- *ajar (teach)* → **pengajar** (*teacher*)  
 
 ---
 
@@ -56,7 +56,7 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 
 **Example:**  
 - *tulis* → **penulisan** (*writing, composition*)  
-- *bangun* → **pembangunan** (*development*)  
+- *bangun (get up)* → **pembangunan** (*development*)  
 
 ---
 
@@ -65,8 +65,9 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - Often = *-ness* or *state of being*.  
 
 **Example:**  
-- *besar* → **kebesaran** (*greatness*)  
-- *sakit* → **kesakitan** (*pain, illness*)  
+- *tulis* → **ketulisan** (*state of being truthful / literalness*)  
+- *besar (big)* → **kebesaran** (*greatness*)  
+- *sakit (sick)* → **kesakitan** (*pain, illness*)  
 
 ---
 
@@ -74,8 +75,9 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 **Function:** Forms **nouns of actions/events**.  
 
 **Example:**  
-- *main* → **permainan** (*game, play*)  
-- *jumpa* → **perjumpaan** (*meeting*)  
+- *tulis* → **pertulisan** (*script, writing system, inscription*)  
+- *main (play)* → **permainan** (*game, play*)  
+- *jumpa (meet)* → **perjumpaan** (*meeting*)  
 
 ---
 
@@ -85,8 +87,9 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 **Function:** Forms **causative / transitive verbs** (*to make, to cause*).  
 
 **Example:**  
-- *besar* → **besarkan** (*enlarge, raise*)  
-- *ingat* → **ingatkan** (*remind*)  
+- *tulis* → **tuliskan** (*write [something] down / write for someone*)  
+- *besar (big)* → **besarkan** (*enlarge, raise*)  
+- *ingat (remember)* → **ingatkan** (*remind*)  
 
 ---
 
@@ -94,8 +97,9 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 **Function:** Forms **locative or repetitive verbs** (*to do something to/on*).  
 
 **Example:**  
-- *isi* → **isini** (*to fill something*)  
-- *cuci* → **cucii** (*to wash repeatedly*)  
+- *tulis* → **tulisi** (*to write on something repeatedly*)  
+- *isi (content)* → **isini** (*to fill something*)  
+- *cuci (wash)* → **cucii** (*to wash repeatedly*)  
 
 ---
 
@@ -103,8 +107,9 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 **Function:** Forms **nouns** (things or results of actions).  
 
 **Example:**  
-- *makan* → **makanan** (*food*)  
-- *baca* → **bacaan** (*reading material*)  
+- *tulis* → **tulisan** (*writing, text, handwriting*)  
+- *makan (eat)* → **makanan** (*food*)  
+- *baca (read)* → **bacaan** (*reading material*)  
 
 ---
 
@@ -117,8 +122,9 @@ These affixes are less “productive” — they don’t freely generate new wor
 - Action is received rather than done.  
 
 **Example:**  
-- *makan* → **dimakan** (*is eaten*)  
-- *tangkap* → **ditangkap** (*is caught*)  
+- *tulis* → **ditulis** (*is written*)  
+- *makan (eat)* → **dimakan** (*is eaten*)  
+- *tangkap (catch)* → **ditangkap** (*is caught*)  
 
 ---
 
@@ -127,9 +133,10 @@ These affixes are less “productive” — they don’t freely generate new wor
 - Often lexicalized.  
 
 **Example:**  
-- **seorang** (*one person*)  
-- **sekampung** (*whole village*)  
-- **serupa** (*similar*)  
+- *tulis* → **setulis** (*as written / one writing*)  
+- *orang (person)* → **seorang** (*one person*)  
+- *kampung (village)* → **sekampung** (*whole village*)  
+- *rupa (appearance)* → **serupa** (*similar*)  
 
 ---
 
@@ -138,8 +145,9 @@ These affixes are less “productive” — they don’t freely generate new wor
 - Limited to a fixed set of words.  
 
 **Example:**  
-- **jurucakap** (*spokesperson*)  
-- **jurutera** (*engineer*)  
+- (*tulis* doesn’t take this, but related: **jurutulis** = clerk/scribe*)  
+- *cakap (speak)* → **jurucakap** (*spokesperson*)  
+- *tera (smart)* → **jurutera** (*engineer*)  
 
 ---
 
@@ -148,9 +156,9 @@ These affixes are less “productive” — they don’t freely generate new wor
 - Not freely attached, often in elevated/loanwords.  
 
 **Example:**  
-- **mahasiswa** (*university student*)  
-- **maharaja** (*emperor*)  
-- **Maha Esa** (*The One God*)  
+- (not applicable for *tulis*)  
+- *besar (big)* → **mahabesar** (*very great*)  
+- *raja (king)* → **maharaja** (*emperor*)  
 
 ---
 
@@ -159,8 +167,9 @@ These affixes are less “productive” — they don’t freely generate new wor
 - Limited set.  
 
 **Example:**  
-- **tunarungu** (*deaf*)  
-- **tunanetra** (*blind*)  
+- (not applicable for *tulis*)  
+- *rungu (hear)* → **tunarungu** (*deaf*)  
+- *netra (eye)* → **tunanetra** (*blind*)  
 
 ---
 
@@ -168,33 +177,34 @@ These affixes are less “productive” — they don’t freely generate new wor
 **Function:** Number-based prefixes, limited.  
 
 **Example:**  
-- **ekabahasawan** (*monolingual*)  
-- **dwibahasa** (*bilingual*)  
-- **trisuku** (*three tribes*)  
-- **pancaindera** (*five senses*)  
+- Related example: **dwitulisan** (*bilingual script*)  
+- *bahasa (language)* → **ekabahasawan** (*monolingual*)  
+- *bahasa (language)* → **dwibahasa** (*bilingual*)  
+- *suku (ethnicity)* → **trisuku** (*three tribes*)  
+- *indera (senses)* → **pancaindera** (*five senses*)  
 
 ---
 
 ## ✨ Quick Reference
 
-| Affix      | Meaning / Function         | Example |
-|------------|---------------------------|---------|
+| Affix      | Function / Meaning         | Example (from *tulis*) |
+|------------|---------------------------|-------------------------|
 | meN-       | active verb (to do)       | menulis (*to write*) |
-| ber-       | intransitive verb         | berjalan (*to walk*) |
-| ter-       | stative / accidental      | terlihat (*visible*) |
+| ber-       | intransitive verb         | bertulis (*bearing writing*) |
+| ter-       | stative / accidental      | tertulis (*inscribed*) |
 | peN-       | doer / agent              | penulis (*writer*) |
 | peN- -an   | abstract noun (process)   | penulisan (*writing*) |
-| ke- -an    | state / quality           | kebesaran (*greatness*) |
-| per- -an   | action / event noun       | permainan (*game*) |
-| -kan       | causative verb            | ingatkan (*remind*) |
-| -i         | locative / repetitive     | cucii (*wash repeatedly*) |
-| -an        | noun (thing/result)       | makanan (*food*) |
-| di-        | passive verb              | dimakan (*is eaten*) |
-| se-        | one/whole/same            | seorang (*one person*) |
-| juru-      | profession                | jurutera (*engineer*) |
-| maha-      | supreme/intensifier       | maharaja (*emperor*) |
+| ke- -an    | state / quality           | ketulisan (*literalness*) |
+| per- -an   | action/event noun         | pertulisan (*script*) |
+| -kan       | causative verb            | tuliskan (*write it down*) |
+| -i         | locative/repetitive verb  | tulisi (*write on*) |
+| -an        | noun (thing/result)       | tulisan (*writing/text*) |
+| di-        | passive verb              | ditulis (*is written*) |
+| se-        | one/whole/same            | setulis (*as written*) |
+| juru-      | profession                | jurutulis (*scribe*) |
+| maha-      | supreme/intensifier       | mahabesar (*very great*) |
 | tuna-      | lack / deprivation        | tunarungu (*deaf*) |
-| eka-/dwi-/tri-/panca- | number forms   | pancaindera (*five senses*) |
+| eka-/dwi-/tri-/panca- | number forms   | dwitulisan (*bilingual writing*) |
 
 ---
 
