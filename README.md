@@ -208,6 +208,35 @@ These affixes are less “productive” — they don’t freely generate new wor
 
 ---
 
+## 🌳 Malay Derivation Flowchart (*tulis*)
+
+```mermaid
+flowchart TD
+
+A["tulis (root)"] --> B["meN- → menulis (to write)"]
+A --> C["ber- → bertulis (bearing writing)"]
+A --> D["ter- → tertulis (inscribed)"]
+A --> E["peN- → penulis (writer)"]
+
+E --> E1["peN- -an → penulisan (writing, composition)"]
+
+A --> F["ke- -an → ketulisan (literalness)"]
+A --> G["per- -an → pertulisan (script, writing system)"]
+
+A --> H["-kan → tuliskan (write [something] down)"]
+A --> I["-i → tulisi (write on repeatedly)"]
+A --> J["-an → tulisan (writing, text)"]
+
+A --> K["di- → ditulis (is written)"]
+A --> L["se- → setulis (as written)"]
+A --> M["juru- → jurutulis (scribe)"]
+
+%% Non-productive others
+X["besar (root)"] --> N["maha- → mahabesar (very great)"]
+Y["rungu (hearing)"] --> O["tuna- → tunarungu (deaf)"]
+Z["dwibahasa (two languages)"] --> P["dwitulisan (bilingual writing)"]
+```
+
 # 🌱 Malay Lemma Decision Guide
 
 A quick reference for identifying **lemmas (root forms)** in Bahasa Melayu.
