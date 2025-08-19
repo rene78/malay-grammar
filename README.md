@@ -111,6 +111,17 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - *makan (eat)* → **makanan** (*food*)  
 - *baca (read)* → **bacaan** (*reading material*)  
 
+### **-nya**  
+**Function:** Multi-purpose suffix.  
+1. **Definite marker** (*the*).  
+   - *tulisan* → **tulisannya** (*the writing*)  
+2. **Third person possessive** (*his/her/its*).  
+   - *tulisan* → **tulisannya** (*his writing*)  
+3. **Nominalizer** (*-ness*, *the fact that*).  
+   - *tertulis* → **tertulisnya** (*the fact of being written*)  
+4. **Adverbial/emphatic**.  
+   - *cepat* → **cepatnya** (*so fast!*)  
+
 ---
 
 ## 🔹 Non-Productive / Negative Affixes
@@ -199,6 +210,7 @@ These affixes are less “productive” — they don’t freely generate new wor
 | -kan       | causative verb            | tuliskan (*write it down*) |
 | -i         | locative/repetitive verb  | tulisi (*write on*) |
 | -an        | noun (thing/result)       | tulisan (*writing/text*) |
+| -nya       | definite/possessive/nominalizer | tulisannya (*the/his writing*) |
 | di-        | passive verb              | ditulis (*is written*) |
 | se-        | one/whole/same            | setulis (*as written*) |
 | juru-      | profession                | jurutulis (*scribe*) |
@@ -226,6 +238,9 @@ A --> G["per- -an → pertulisan (script, writing system)"]
 A --> H["-kan → tuliskan (write [something] down)"]
 A --> I["-i → tulisi (write on repeatedly)"]
 A --> J["-an → tulisan (writing, text)"]
+
+J --> J1["-nya → tulisannya (the/his writing)"]
+D --> D1["-nya → tertulisnya (the fact of being written)"]
 
 A --> K["di- → ditulis (is written)"]
 A --> L["se- → setulis (as written)"]
