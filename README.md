@@ -36,6 +36,7 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 **Example:**  
 - *tulis* → **tertulis** (*written down, inscribed, accidentally written*)
 - *lihat (look)* → **terlihat** (*visible / accidentally saw*)  
+- *tujah (thrust, jab)* → **tertujah** (*accidentally jabbed*)  
 
 ---
 
