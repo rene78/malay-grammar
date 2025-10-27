@@ -11,11 +11,16 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 ### **meN-**  
 **Function:** Forms **active verbs** (often transitive).  
 - Adds sense of *"to do an action"*.  
-- Assimilates depending on first letter of root.  
+- Assimilates depending on first letter of root. Can be *me-, mem-, men-, men-, meng-, menge-, meny-*.
 
 **Example:**  
 - *tulis (write)* → **menulis** (*to write*)  
 - *ajar (teach)* → **mengajar** (*to teach*)  
+
+**Rule of Thumb**
+
+Use it when someone **does or makes something** to an object (transitive).
+Example: membuat kuih (make a cake).
 
 ---
 
@@ -27,22 +32,30 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - *tulis* → **bertulis** (*written / bearing writing*)  
 - *baju (shirt)* → **berbaju** (*to wear clothes*)  
 
+**Rule of Thumb**
+
+Use it when someone **has, is, or does something by themselves** (intransitive or reflexive).
+Example: berjalan (walk), bekerja (work).
+
 ---
 
 ### **ter-**  
 **Function:** Forms **stative verbs** or **accidental actions**.  
-- Adds sense of *"happened by itself / accidentally / the most"*.  
+- Adds sense of *"happened by itself / accidentally / the most"*.
+- Adds the perfective aspect of the verb (*"placed" → "has been placed"*)
 
 **Example:**  
 - *tulis* → **tertulis** (*written down, inscribed, accidentally written*)
 - *lihat (look)* → **terlihat** (*visible / accidentally saw*)  
 - *tujah (thrust, jab)* → **tertujah** (*accidentally jabbed*)  
+- *letak (place)* → **terletak** (*have been placed*)
 
 ---
 
 ### **peN-**  
 **Function:** Forms **agent nouns** (the doer of an action).  
 - Like English *-er*.  
+- Assimilates depending on first letter of root. Can be *pe-, pen-, peng-, peny-, pem-, per, pel-*.
 
 **Example:**  
 - *tulis* → **penulis** (*writer*)  
@@ -72,6 +85,19 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 
 ---
 
+### **meN- -kan**  
+**Function:** Causative or applicative verb formation.  
+- Derived from combining **meN-** and **-kan**.  
+- Expresses **causation** (“to make [something/someone] do or become something”) or **application** (“to do [something] for/on someone”).  
+- Considered **derivational** because it changes the base meaning significantly.  
+
+**Examples:**  
+- *tulis* → **menuliskan** (*to write [something] for someone / to inscribe*)  
+- *panas (hot)* → **memanaskan** (*to heat [something], to make hot*)  
+- *ingat (remember)* → **mengingatkan** (*to remind*)  
+
+---
+
 ### **per- -an**  
 **Function:** Forms **nouns of actions/events**.  
 
@@ -91,6 +117,34 @@ while others are **non-productive/negative** (fixed forms, limited in use).
 - *tulis* → **tuliskan** (*write [something] down / write for someone*)  
 - *besar (big)* → **besarkan** (*enlarge, raise*)  
 - *ingat (remember)* → **ingatkan** (*remind*)  
+
+---
+
+### **-kah**  
+**Function:** Question particle suffix.  
+- Turns statements into **yes/no** or **wh-** questions.  
+- Can attach to verbs, adjectives, pronouns, or question words.  
+- Unlike other suffixes, **-kah** is **grammatical**, not **derivational** — it affects sentence mood rather than forming new words.  
+
+**Example:**  
+- *tulis* → **tuliskah?** (*is [it] written?*)  
+- *apa (what)* → **apakah** (*what? / is it?*)  
+- *betul (correct)* → **betulkah** (*is it true?*)  
+- *mungkin (maybe)* → **mungkinkah** (*is it possible?*)  
+
+---
+
+### **-lah**  
+**Function:** Emphatic or polite particle.  
+- Used to **soften imperatives**, **emphasize statements**, or make speech more **friendly**.  
+- Like **-kah**, it is **grammatical**, not **derivational** — it doesn’t create new words but changes the **tone or mood** of the sentence.  
+- Very common in spoken and written Malay.
+
+**Examples:**  
+- *tulis* → **tulislah!** (*please write! / go ahead and write!*)  
+- *ini (here)* → **inilah** (*this is it / here it is*)  
+- *mari (come on)* → **marilah** (*let’s go!*)  
+- *cuba (try)* → **cubalah** (*try it!*)  
 
 ---
 
@@ -186,38 +240,42 @@ These affixes are less “productive” — they don’t freely generate new wor
 ---
 
 ### **eka-/dwi-/tri-/panca-** (Sanskrit origin)  
-**Function:** Number-based prefixes, limited.  
+**Function:** Malay and Sanskrit-derived prefixes used to express *number*, *unity*, or *comparison*.
 
-**Example:**  
-- Related example: **dwitulisan** (*bilingual script*)  
-- *bahasa (language)* → **ekabahasawan** (*monolingual*)  
-- *bahasa (language)* → **dwibahasa** (*bilingual*)  
-- *suku (ethnicity)* → **trisuku** (*three tribes*)  
-- *indera (senses)* → **pancaindera** (*five senses*)  
+| Prefix | Origin | Meaning | Example | Meaning |
+|:--------|:--------|:----------|:----------|:----------|
+| **se-** | Native Malay | one / a / same | *seorang*, *sekali*, *setulis* | one person, once, as written |
+| **eka-** | Sanskrit | one / single | *ekabahasa* | monolingual |
+| **dwi-** | Sanskrit | two / dual | *dwibahasa* | bilingual |
+| **tri-** | Sanskrit | three | *trisakti* | threefold / triple power |
+| **panca-** | Sanskrit | five | *Pancasila* | five principles |
 
 ---
 
 ## ✨ Quick Reference
 
-| Affix      | Function / Meaning         | Example (from *tulis*) |
-|------------|---------------------------|-------------------------|
-| meN-       | active verb (to do)       | menulis (*to write*) |
-| ber-       | intransitive verb         | bertulis (*bearing writing*) |
-| ter-       | stative / accidental      | tertulis (*inscribed*) |
-| peN-       | doer / agent              | penulis (*writer*) |
-| peN- -an   | abstract noun (process)   | penulisan (*writing*) |
-| ke- -an    | state / quality           | ketulisan (*literalness*) |
-| per- -an   | action/event noun         | pertulisan (*script*) |
-| -kan       | causative verb            | tuliskan (*write it down*) |
-| -i         | locative/repetitive verb  | tulisi (*write on*) |
-| -an        | noun (thing/result)       | tulisan (*writing/text*) |
-| -nya       | definite/possessive/nominalizer | tulisannya (*the/his writing*) |
-| di-        | passive verb              | ditulis (*is written*) |
-| se-        | one/whole/same            | setulis (*as written*) |
-| juru-      | profession                | jurutulis (*scribe*) |
-| maha-      | supreme/intensifier       | mahabesar (*very great*) |
-| tuna-      | lack / deprivation        | tunarungu (*deaf*) |
-| eka-/dwi-/tri-/panca- | number forms   | dwitulisan (*bilingual writing*) |
+| Affix                 | Function / Meaning              | Example (from *tulis*)             |
+|-----------------------|---------------------------------|------------------------------------|
+| meN-                  | active verb (to do)             | menulis (*to write*) |
+| ber-                  | intransitive verb               | bertulis (*bearing writing*) |
+| ter-                  | stative / accidental            | tertulis (*inscribed*) |
+| peN-                  | doer / agent                    | penulis (*writer*) |
+| peN- -an              | abstract noun (process)         | penulisan (*writing*) |
+| ke- -an               | state / quality                 | ketulisan (*literalness*) |
+| meN- -kan             | causative or applicative verbs  | menuliskan (to write (for someone)) |
+| per- -an              | action/event noun               | pertulisan (*script*) |
+| -kan                  | causative verb                  | tuliskan (*write it down*) |
+| -kah                  | question/focus particle         | tuliskah (*did [someone] write?*) |
+| -lah                  | emphatic or polite particle     | tulislah! (*please write!*) |
+| -i                    | locative/repetitive verb        | tulisi (*write on*) |
+| -an                   | noun (thing/result)             | tulisan (*writing/text*) |
+| -nya                  | definite/possessive/nominalizer | tulisannya (*the/his writing*) |
+| di-                   | passive verb                    | ditulis (*is written*) |
+| se-                   | one/whole/same                  | setulis (*as written*) |
+| juru-                 | profession                      | jurutulis (*scribe*) |
+| maha-                 | supreme/intensifier             | mahabesar (*very great*) |
+| tuna-                 | lack / deprivation              | tunarungu (*deaf*) |
+| eka-/dwi-/tri-/panca- | number forms                    | dwitulisan (*bilingual writing*) |
 
 ---
 
