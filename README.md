@@ -42,7 +42,7 @@ Example: berjalan (walk), bekerja (work).
 ### **ter-**  
 **Function:** Forms **stative verbs** or **accidental actions**.  
 - Adds sense of *"happened by itself / accidentally / the most"*.
-- Adds the perfective aspect of the verb (*"placed" → "has been placed"*)
+- Adds the perfective aspect of the verb (*"place" → "has been placed"*)
 
 **Example:**  
 - *tulis* → **tertulis** (*written down, inscribed, accidentally written*)
