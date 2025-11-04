@@ -385,3 +385,10 @@ graph TD
     F -->|Yes| G[Lemma = compound]
     F -->|No| H[Lemma = the word itself <br/>e.g. demikian, kalau]
 ```
+
+## Compounds
+Reduplication in Malay often expresses:
+
+- **plurality** or variety (buku-buku ("book")= books),
+- **continuity** or **repetition** (jalan-jalan ("street") = stroll around),
+- **emphasis** or nuance (angan-angan ("daydream") = deep or wistful thoughts).
