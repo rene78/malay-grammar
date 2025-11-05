@@ -206,6 +206,19 @@ These affixes are less “productive” — they don’t freely generate new wor
 
 ---
 
+### **ke-**  
+**Function:** Forms nouns or adjectives showing **state**, **rank**, or **order**.  
+- Often used in **set expressions** (e.g. *kekasih*, *kedai*, *kerusi*) where it’s no longer felt as a prefix.  
+- Sometimes combines with **-an** (*ke- -an*) to form abstract nouns (e.g. *kebaikan*, *keindahan*).  
+- Considered **non-productive**, as it rarely forms new words in modern Malay.  
+
+**Examples:**  
+- *keempat* → *the fourth*  
+- *kedua* → *the second*  
+- *kekasih* → *lover* (literally “beloved one”)  
+- *kerusi* → *chair* (no longer transparently derived)
+
+---
 ### **juru-**  
 **Function:** Forms profession nouns.  
 - Limited to a fixed set of words.  
