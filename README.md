@@ -63,6 +63,23 @@ Example: berjalan (walk), bekerja (work).
 
 ---
 
+### 🧬 Assimilation Rules for meN- & peN-
+
+Both **meN-** (active verbs) and **peN-** (agent nouns) follow the exact same morphophonemic rules. The prefix changes its form depending on the first letter of the root word.
+
+**💡 The KPTS Rule:** As a general rule, root words starting with **K, P, T,** and **S** will drop their first letter when attached to `meN-` or `peN-`.
+
+| Prefix Form (`meN-` / `peN-`) | Use if First Letter of Root Word is a... | Rule / Notes | Examples (`meN-` & `peN-`) |
+| :--- | :--- | :--- | :--- |
+| **me- / pe-** | `l, m, n, ng, ny, r, w, y` | Keep the first letter. | *lawat* (visit) → **melawat / pelawat**<br>*masak* (cook) → **memasak / pemasak** |
+| **mem- / pem-** | `b, p, f, v` | **Drop `p`.**<br>Keep `b, f, v`.<br>*(Note: `f` is dropped in some older loanwords like fikir → memikirkan, but kept in newer ones like fokus → memfokuskan).* | *pukul* (hit) → **memukul / pemukul**<br>*baca* (read) → **membaca / pembaca** |
+| **men- / pen-** | `c, d, j, t, z` | **Drop `t`.**<br>Keep `c, d, j, z`. | *tulis* (write) → **menulis / penulis**<br>*curi* (steal) → **mencuri / pencuri** |
+| **meng- / peng-** | Vowels (`a, e, i, o, u`)<br>`g, h, k, kh, gh` | **Drop `k`.**<br>Keep vowels, `g, h, kh, gh`. | *karang* (compose) → **mengarang / pengarang**<br>*ajar* (teach) → **mengajar / pengajar** |
+| **meny- / peny-** | `s` | **Drop `s`.** | *sapu* (sweep) → **menyapu / penyapu**<br>*siasat* (investigate) → **menyiasat / penyiasat** |
+| **menge- / penge-** | 1-Syllable Words | Keep the whole word (add an `e`). | *cat* (paint) → **mengecat / pengecat**<br>*bom* (bomb) → **mengebom / pengebom** |
+
+---
+
 ## 🔹 Productive Circumfixes
 
 ### **peN- -an**  
