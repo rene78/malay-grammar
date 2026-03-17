@@ -183,6 +183,8 @@ Both **meN-** (active verbs) and **peN-** (agent nouns) follow the exact same mo
 - *makan (eat)* → **makanan** (*food*)  
 - *baca (read)* → **bacaan** (*reading material*)  
 
+---
+
 ### **-nya**  
 **Function:** Multi-purpose suffix.  
 1. **Definite marker** (*the*).  
@@ -196,18 +198,42 @@ Both **meN-** (active verbs) and **peN-** (agent nouns) follow the exact same mo
 
 ---
 
+### **-ku** *(and related -mu)*
+**Function:** First-person singular pronoun suffix (enclitic derived from *aku*).  
+- Acts grammatically to indicate possession or object reception.  
+1. **Possessive marker** (*my*).  
+   - *tulisan* → **tulisanku** (*my writing*)  
+   - *buku (book)* → **bukuku** (*my book*)  
+2. **Object pronoun** (*me*).  
+   - *kenali (recognize)* → **mengenaliku** (*recognizes me*)  
+   - *bantu (help)* → **bantuku** (*help me*)  
+
+---
+
 ## 🔹 Non-Productive / Negative Affixes
 
 These affixes are less “productive” — they don’t freely generate new words, but serve grammatical or lexicalized functions.
 
 ### **di-**  
-**Function:** Forms **passive verbs**.  
+**Function:** Forms **passive verbs** (third-person passive).  
 - Action is received rather than done.  
 
 **Example:**  
-- *tulis* → **ditulis** (*is written*)  
+- *tulis* → **ditulis** (*is written [by him/her/them/it]*)  
 - *makan (eat)* → **dimakan** (*is eaten*)  
 - *tangkap (catch)* → **ditangkap** (*is caught*)  
+
+---
+
+### **ku-** *(and related kau-)*
+**Function:** First-person singular pronoun prefix (proclitic derived from *aku*).  
+- Marks an action done by the speaker (*"I"* or *"by me"*).  
+- Often functions as a passive/ergative marker for the first person, behaving similarly to **di-** structurally.  
+
+**Example:**  
+- *tulis* → **kutulis** (*written by me / I write*)  
+- *tahu (know)* → **kutahu** (*I know*)  
+- *lihat (see)* → **kulihat** (*seen by me / I see*)  
 
 ---
 
@@ -300,7 +326,9 @@ These affixes are less “productive” — they don’t freely generate new wor
 | -i                    | locative/repetitive verb        | tulisi (*write on*) |
 | -an                   | noun (thing/result)             | tulisan (*writing/text*) |
 | -nya                  | definite/possessive/nominalizer | tulisannya (*the/his writing*) |
+| -ku                   | 1st person object / possessive  | tulisanku (*my writing*) |
 | di-                   | passive verb                    | ditulis (*is written*) |
+| ku-                   | 1st person marker (I / by me)   | kutulis (*written by me*) |
 | se-                   | one/whole/same                  | setulis (*as written*) |
 | juru-                 | profession                      | jurutulis (*scribe*) |
 | maha-                 | supreme/intensifier             | mahabesar (*very great*) |
@@ -329,9 +357,11 @@ A --> I["-i → tulisi (write on repeatedly)"]
 A --> J["-an → tulisan (writing, text)"]
 
 J --> J1["-nya → tulisannya (the/his writing)"]
+J --> J2["-ku → tulisanku (my writing)"]
 D --> D1["-nya → tertulisnya (the fact of being written)"]
 
 A --> K["di- → ditulis (is written)"]
+A --> K2["ku- → kutulis (written by me / I write)"]
 A --> L["se- → setulis (as written)"]
 A --> M["juru- → jurutulis (scribe)"]
 
@@ -348,8 +378,8 @@ A quick reference for identifying **lemmas (root forms)** in Bahasa Melayu.
 ---
 
 ## 1. Check if it looks **affixed**
-- **Prefixes:** meN-, ber-, ter-, peN-, ke-, di-, se-, per-  
-- **Suffixes:** -kan, -i, -an, -nya  
+- **Prefixes:** meN-, ber-, ter-, peN-, ke-, di-, ku-, se-, per-  
+- **Suffixes:** -kan, -i, -an, -nya, -ku  
 - **Circumfixes:** ke-…-an, per-…-an  
 
 👉 If yes → strip the affix to find the **root**.
@@ -360,6 +390,8 @@ A quick reference for identifying **lemmas (root forms)** in Bahasa Melayu.
 | berjalan    | ber- + jalan               | jalan   |
 | kesyukuran  | ke- … -an + syukur         | syukur  |
 | perbuatan   | per- … -an + buat          | buat    |
+| kutahu      | ku- + tahu                 | tahu    |
+| mengenaliku | meN- + kenal + -i + -ku    | kenal   |
 
 ---
 
@@ -407,7 +439,7 @@ Some words look like they might have affixes historically, but are synchronicall
 
 ```mermaid
 graph TD
-    A[Start with the word] --> B[Has a common affix? <br/>meN-, ber-, ter-, ke-...-an]
+    A[Start with the word] --> B[Has a common affix? <br/>meN-, ber-, ter-, ke-...-an, ku-, -ku, etc.]
     B -->|Yes| C[Strip affix → Root <br/>Lemma = root form]
     B -->|No| D[Is it reduplicated?]
     D -->|Yes| E[Lemma = single form]
